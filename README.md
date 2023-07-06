@@ -83,6 +83,9 @@ Welcome to MongoDB!
   - https://community.mongodb.com/c/server-dev
 
       Technical questions about building and developing MongoDB.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mongodb/mongo&type=Date)](https://star-history.com/#mongodb/mongo&Date)
 
 
 ## LICENSE
